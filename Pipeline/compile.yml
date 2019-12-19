@@ -2,6 +2,6 @@ platform: windows
 inputs:
   - name: code
 run:
-   path: Pipeline/test.sh
+   path: test.sh
    dir: code
 
